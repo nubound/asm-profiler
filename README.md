@@ -1,4 +1,5 @@
 # asm-profiler
+<img width="729" height="416" alt="asm-profiler" src="https://github.com/user-attachments/assets/30f445e1-e609-4dcf-8c16-86e4b7c2c262" />
 
 `asm-profiler` is a Linux x86-64 sampling profiler for native ELF executables.
 It launches a target command, samples user-space execution with
